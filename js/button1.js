@@ -1,3 +1,4 @@
+import '../resource/style.css';
 import {abc} from './button2.js'
 
 $(document).ready(function(){
